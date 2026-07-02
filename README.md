@@ -29,7 +29,7 @@ The objective of this task is to practice SQL for data analysis by querying an e
 
 # Files Included
 
-*'task3_queries.sql' – SQL queries used for data analysis.
+* 'task3_queries.sql' – SQL queries used for data analysis.
 * 'superstore_dataset.csv' – Dataset used in this project.
 * 'screenshots/' – Screenshots showing the execution and output of SQL queries.
 * 'README.md' – Project documentation.
