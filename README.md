@@ -42,6 +42,11 @@ The objective of this task is to practice SQL for data analysis by querying an e
 * Used subqueries for advanced data retrieval.
 * Created views to simplify analysis.
 * Created indexes to improve query performance.
+# Screenshots
+
+All SQL query output screenshots are available in the **Screenshots** folder.
+
+➡️ [View Screenshots](./Screenshots/)
 
 
 
